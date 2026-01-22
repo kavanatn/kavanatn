@@ -69,9 +69,9 @@ End-to-end transcription with speaker diarization and multi-level summaries
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/kavana-tn/
 - 🌐 Portfolio: https://portfolio-fhv1-roan.vercel.app/
-- 📧 Email: *(add your professional email here)*
+- 📧 Email: kavanatn41@gmail.com
 
 ---
 
